@@ -2,7 +2,7 @@
 
 [SYSTEM NAME] uses the default FATE CORE skill list (FATE CORE, p.97) with the addition of the Magic Fight, Magic Shoot, and Magic Utility skills. 
 
-These skills represent the innate magical properties of a magical girl. Just like no two magical girls are the same, so too do their powers vary wildly. Within the vast options available to a Mahou Shoujo, however, every spell can be roughly categorized into one of three major fields of effect: Fight, Shoot, or Utility. 
+These skills represent the innate magical properties of a Mahou Shoujo. Just like no two Mahou Shoujo are the same, so too do their powers vary wildly. Within the vast options available to a Mahou Shoujo, however, every spell can be roughly categorized into one of three major fields of effect: Fight, Shoot, or Utility. 
 
 How two Mahou Shoujo decide to utilize these skills can be very different indeed. Whether striking with a summoned blade of fire, attacking with modified claws due to a transformation, or a simple punch augmented by magical energies, all three are represented by the Magic Fight skill. Similarly, a fireball, lightning bolt, magic gun, and eye beam all fall under Magic Shoot. 
 
@@ -30,5 +30,5 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NDE3NzA5XX0=
+eyJoaXN0b3J5IjpbLTEyMDI3NjAxNDQsMjk4NDE3NzA5XX0=
 -->
