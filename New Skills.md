@@ -20,7 +20,7 @@ How two Mahou Shoujo decide to utilize these skills can be very different indeed
 
 While Magic Fight and Magic Shoot are fairly self-explanatory, Magic Utility can be a little more tricky. Utility spells are any spell that is not used to directly attack an opponent. If attempting to make an Attack action with magic, either Magic Fight or Magic Shoot should be rolled. Magic Utility, on the other hand, encompasses all attempts at using the Create an Advantage or Overcome actions. Defend actions can be taken with either Magic Fight or Magic Utility depending on the spell (Magic Shoot being too offensively oriented for the task without a proper stunt allowing its use.) 
 
-Magic Utility also has a second use beyond spell e
+Magic Utility also has a second use beyond spellcasting. During the Transformation Phase of combat, a player can make a Magic Utility roll 
 
 While each player certainly has narrative control over the magical spells their characters cast, it is ultimately up to the GM to determine which of the three skills the spell falls under. Feel free to dress your spells up as creatively as you wish, but respect the GMs judgement on the matter. Similarly, GMs, we encourage you to work with your players' creativity. 
 
@@ -32,6 +32,6 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDE4NTkyMiwtMTIwMjc2MDE0NCwyOT
+eyJoaXN0b3J5IjpbMTIyOTUxMTMwOCwtMTIwMjc2MDE0NCwyOT
 g0MTc3MDldfQ==
 -->
