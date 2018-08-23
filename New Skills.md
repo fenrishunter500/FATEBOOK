@@ -1,6 +1,6 @@
 ## New Skills
 
-[SYSTEM NAME] uses the default FATE CORE skill list (FATE CORE, p.97) with the addition of the Magic Fight, Magic Shoot, and Magic Utility skills. 
+[SYSTEM NAME] uses the default FATE CORE skill list (FATE CORE, p.97) with the addition of the Magic Fight, Magic Shoot, and Magic Utility skills, collectively referred to as the Magical skills. 
 
 These skills represent the innate magical properties of a Mahou Shoujo. Just like no two Mahou Shoujo are the same, so too do their powers vary wildly. Within the vast options available to a Mahou Shoujo, however, every spell can be roughly categorized into one of three major fields of effect: Fight, Shoot, or Utility. 
 
@@ -33,7 +33,7 @@ In addition, Magic Utility has uses beyond spellcasting. During the Transformati
 
 ## Magic Skills and Purity
 
-During character creation, a Mahou Shoujo can gain additional Purity stress boxes depending on her Magical 
+During character creation, a Mahou Shoujo can gain additional Purity stress boxes depending on her Magical skills. If two or more of her skills (whether Magic Fight, Magic Shoot, or Magic Utility) is rated at Average (+1) or Fair (+2), she gains 
 
 ## Skill Modifications
 
@@ -43,7 +43,7 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDcyNzQ4NCw0MTU4MzgwMzIsLTE5MD
+eyJoaXN0b3J5IjpbLTY4MjE3MjkzMiw0MTU4MzgwMzIsLTE5MD
 g4OTMwLC0xMjYxOTE3Mzg5LDIwMDk4MTUzMDksLTEyMDI3NjAx
 NDQsMjk4NDE3NzA5XX0=
 -->
