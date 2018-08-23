@@ -40,7 +40,9 @@ During character creation, a Mahou Shoujo can gain additional Purity stress boxe
 	Stress respectively, these bonus stress boxes do not stack. For
 	example, say a Mahou Shoujo starts the game with a Fair (+2) in
 	Magic Fight and Magic Shoot and a Good (+3) in Magic Utility,
-	she gains an extra stress box. If 
+	she gains an extra stress box. If she were to increase her 
+	Magic Fight to Good (+3) as well, she would only gain a single
+	additional stress box, for a cumulative two extra stress boxes.
 
 ## Skill Modifications
 
@@ -50,7 +52,7 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTI3NTUxMiw0MTU4MzgwMzIsLTE5MD
+eyJoaXN0b3J5IjpbLTQ4Mzc1OTQ5OCw0MTU4MzgwMzIsLTE5MD
 g4OTMwLC0xMjYxOTE3Mzg5LDIwMDk4MTUzMDksLTEyMDI3NjAx
 NDQsMjk4NDE3NzA5XX0=
 -->
