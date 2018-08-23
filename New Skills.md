@@ -31,6 +31,10 @@ In addition, Magic Utility has uses beyond spellcasting. During the Transformati
 	they are attempting is interesting and facilitates fun, go for
 	it! 
 
+## Magic Skills and Purity
+
+During character creation, a 
+
 ## Skill Modifications
 
 In addition to the new skills listed above, the following skills are modified to behave as thusly:
@@ -39,7 +43,7 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTQ0OTU0OSwtMTkwODg5MzAsLTEyNj
-E5MTczODksMjAwOTgxNTMwOSwtMTIwMjc2MDE0NCwyOTg0MTc3
-MDldfQ==
+eyJoaXN0b3J5IjpbNDE1ODM4MDMyLC0xOTA4ODkzMCwtMTI2MT
+kxNzM4OSwyMDA5ODE1MzA5LC0xMjAyNzYwMTQ0LDI5ODQxNzcw
+OV19
 -->
