@@ -20,7 +20,7 @@ How two Mahou Shoujo decide to utilize these skills can be very different indeed
 
 While Magic Fight and Magic Shoot are fairly self-explanatory, Magic Utility can be a little more tricky. Utility spells are any spell that is not used to directly attack an opponent. If attempting to make an Attack action with magic, either Magic Fight or Magic Shoot should be rolled. Magic Utility, on the other hand, encompasses all attempts at using the Create an Advantage or Overcome actions. Defend actions can be taken with either Magic Fight or Magic Utility depending on the spell (Magic Shoot being too offensively oriented for the task without a proper stunt allowing its use.) 
 
-Magic Utility has an additional use beyond spellcasting. During the Transformation Phase of combat, a player can make a Magic Utility roll against a difficulty equal to the Corruption level (or Purity, if circumstances call for it) of the highest opponent. If the player succeeds, she may choose one bonus from the table below. Whenever the Mahou Shoujo is reverts back to her regular form, whether from filling her Purity Stress track, end of combat, or any other special effect, this bonus is lost.
+Magic Utility has an additional use beyond spellcasting. During the Transformation Phase of combat, a player can make a Magic Utility roll against a difficulty equal to the Corruption level (or Purity, if circumstances call for it) of the highest opponent. If the player succeeds, she may choose one bonus from the list below. Whenever the Mahou Shoujo is reverts back to her regular form, whether from filling her Purity stress track, end of combat, or any other special effect or event, this bonus is lost.
 
 
 
@@ -34,6 +34,6 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjQ3MDk1MiwyMDA5ODE1MzA5LC0xMj
+eyJoaXN0b3J5IjpbMTMzMzM1MzYzOSwyMDA5ODE1MzA5LC0xMj
 AyNzYwMTQ0LDI5ODQxNzcwOV19
 -->
