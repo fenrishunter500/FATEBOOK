@@ -33,7 +33,7 @@ In addition, Magic Utility has uses beyond spellcasting. During the Transformati
 
 ## Magic Skills and Purity
 
-During character creation, a 
+During character creation, a Mahou Shoujo can gain additional Purity stress boxes depending on her Magical 
 
 ## Skill Modifications
 
@@ -43,7 +43,7 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1ODM4MDMyLC0xOTA4ODkzMCwtMTI2MT
-kxNzM4OSwyMDA5ODE1MzA5LC0xMjAyNzYwMTQ0LDI5ODQxNzcw
-OV19
+eyJoaXN0b3J5IjpbMTE1MDcyNzQ4NCw0MTU4MzgwMzIsLTE5MD
+g4OTMwLC0xMjYxOTE3Mzg5LDIwMDk4MTUzMDksLTEyMDI3NjAx
+NDQsMjk4NDE3NzA5XX0=
 -->
