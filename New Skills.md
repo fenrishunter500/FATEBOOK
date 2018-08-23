@@ -22,7 +22,7 @@ While Magic Fight and Magic Shoot are fairly self-explanatory, Magic Utility can
 
 Magic Utility has an additional use beyond spellcasting. During the Transformation Phase of combat, a player can make a Magic Utility roll against a difficulty equal to the Corruption level (or Purity, if circumstances call for it) of the highest opponent. If the player succeeds, she may choose one bonus from the list below. Whenever the Mahou Shoujo is reverts back to her regular form, whether from filling her Purity stress track, end of combat, or any other special effect or event, this bonus is lost.
 
-1. As the magic swirl and coalesce around you, their residual 
+1. As the magic swirls and coalesces around you, its residual energies cling protectively to your newly formed ou
 2. Gain a +2 to the first 
 
 While each player certainly has narrative control over the magical spells their characters cast, it is ultimately up to the GM to determine which of the three skills the spell falls under. Feel free to dress your spells up as creatively as you wish, but respect the GMs judgement on the matter. Similarly, GMs, we encourage you to work with your players' creativity. 
@@ -35,6 +35,6 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE5MTczODksMjAwOTgxNTMwOSwtMT
-IwMjc2MDE0NCwyOTg0MTc3MDldfQ==
+eyJoaXN0b3J5IjpbLTk1MzczOTcxMCwtMTI2MTkxNzM4OSwyMD
+A5ODE1MzA5LC0xMjAyNzYwMTQ0LDI5ODQxNzcwOV19
 -->
