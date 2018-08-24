@@ -12,7 +12,7 @@ In addition, once the Purity stress track has been filled, a Mahou Shoujo loses 
 
 Purity can be restored in the same manner as the Physical and Mental tracks. Generally, this will be after combat has been ended and the character has had a chance to catch her breath. However, some form of restoration spell can be utilized in a pinch. The caster and the target for restoration need not be the same character. Each character may only benefit from such a spell once per scene. 
 
-In order to preform a restoration spell, firstly the casting Mahou Shoujo must have an Aspect that allows such a spell as detailed on pg [PG NUMBER]. If so, then player must make an Overcome action using Magic Utility vs. a difficulty equal to the Purity box to be restored. If the target currently has been reverted to her ordinary form, the caster has a bonus of (+2) to her roll. If she succeeds, the box is cleared and available for use. In the case of a success with style, an additional box can be restored. This additional box must be the lowest value box below the box restored. 
+In order to preform a restoration spell, the casting Mahou Shoujo must have an Aspect that allows such a spell to be cast as detailed on pg [PG NUMBER]. Then the player must make an Overcome action using Magic Utility vs. a difficulty equal to the Purity box to be restored. If the target currently has been reverted to her ordinary form, the caster has a bonus of (+2) to her roll. If she succeeds, the box is cleared and available for use. In the case of a success with style, an additional box can be restored. This additional box must be the lowest value box below the box restored. 
 
 If this restoration frees up a hit box on a reverted character, she now has access once more to her magic. In addition to gaining back the use of the Magical skills, she immediately goes through Transformation again. However, she cannot roll for another Transformation Boon, as the boon is only gained at the beginning of a combat scene.
 
@@ -46,7 +46,7 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4MzM3NjA0LC0xMTU0OTA1MDY1LC05OD
-I3MTA2NywxNDMxODIxMDc0LDEyMjg2MzY4NDMsLTE1NjI2OTcw
-NzRdfQ==
+eyJoaXN0b3J5IjpbMTg2MTc1MjE3OCw4NzgzMzc2MDQsLTExNT
+Q5MDUwNjUsLTk4MjcxMDY3LDE0MzE4MjEwNzQsMTIyODYzNjg0
+MywtMTU2MjY5NzA3NF19
 -->
