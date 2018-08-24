@@ -3,7 +3,7 @@
 Transformations
 
  - [x] New Stress [Purity] to represent resiliency to remaining in MG form
- - [ ] Beginning of combat, roll a Magic check vs a TN to gain a one time bonus sometime during the fight.
+ - [x] Beginning of combat, roll a Magic check vs a TN to gain a one time bonus sometime during the fight.
  - [x] Bonus possibilities: Armor, a free invoke of an Aspect, a one time heal, etc.
 
 Familiars
@@ -59,6 +59,6 @@ Page Density: ~450 words per page
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1Nzc3Nzc5LC01OTA2Mzg5OTksLTE0OD
-k2MDkzNTUsMjUzODEwODkzLC03ODk0NDk2OTFdfQ==
+eyJoaXN0b3J5IjpbLTIwNDAwNDcyMDUsLTU5MDYzODk5OSwtMT
+Q4OTYwOTM1NSwyNTM4MTA4OTMsLTc4OTQ0OTY5MV19
 -->
