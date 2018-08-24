@@ -11,11 +11,13 @@ In [SYSTEM NAME], this sequence is recreated in the form of the Transformation P
 
 Just like in your favorite magical girls anime, this Transformation Phase takes no time at all in game despite being "on screen" for a relative amount of time. Feel free to dress up your transformations as you see fit! It's even possible that your transformation takes on a different form every combat! 
 
-	GMs, don
+	GMs, don't forget to award a Fate Point to any exceptional
+	transformation sequences at the table! However, Players, you
+	should keep in mind the rest of th
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTgzNzk4OSw1MjI5MzQyNzAsMTYzNz
-U3MTA0Niw5NzI2NzY4MTIsMTAwNTE3NzM1NiwtNTM2MjI4NzU1
-LC0xODY5OTg1NTgyLC01MzM5NTUyMV19
+eyJoaXN0b3J5IjpbNTY3NjYwODk5LDUyMjkzNDI3MCwxNjM3NT
+cxMDQ2LDk3MjY3NjgxMiwxMDA1MTc3MzU2LC01MzYyMjg3NTUs
+LTE4Njk5ODU1ODIsLTUzMzk1NTIxXX0=
 -->
