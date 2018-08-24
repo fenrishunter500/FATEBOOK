@@ -4,7 +4,7 @@ In addition to the Physical and Mental stress tracks of Fate Core, [SYSTEM NAME]
 
 During combat, a Mahou Shoujo can elect to allow damage to either apply to her Purity or her Physical/Mental Stress tracks as applicable. However, this choice is only available to her so long as there are more Purity boxes crossed off than Physical and Mental combined. 
 
-Players start with two Purity stress boxes, and can gain additional boxes in a similar fashion to the Physical and Mental stress tracks. Any of her three Magical skills are ranked at Average (+1) or Fair (+2) for a single additional stress box. If two of the three are at Good (+3) or higher, she instead receives two additional stress boxes. In addition, if at least one of these skills is at Superb (+5) or higher the Mahou Shoujo will also gain an additional Mild consequence slot, and if all three are ranked Superb (+5) she also gains an additional Moderate consequence slot. These slots are specifically restricted to Purity harm and cannot be used to lessen the impact of a physical or mental hit. 
+Players start with two Purity stress boxes, and can gain additional boxes in a similar fashion to the Physical and Mental stress tracks. If any of her three Magical skills are ranked at Average (+1) or Fair (+2) she gains a single additional stress box; if any are at Good (+3) or higher, she instead receives two additional stress boxes. In addition, if at least one of these skills is at Superb (+5) or higher the Mahou Shoujo will also gain an additional Mild consequence slot, and if all three are ranked Superb (+5) she also gains an additional Moderate consequence slot. These slots are specifically restricted to Purity harm and cannot be used to lessen the impact of a physical or mental hit. 
 
 ## Filling the Purity Track
 
@@ -51,7 +51,7 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc3Nzg2MTIsODc4MzM3NjA0LC0xMT
-U0OTA1MDY1LC05ODI3MTA2NywxNDMxODIxMDc0LDEyMjg2MzY4
-NDMsLTE1NjI2OTcwNzRdfQ==
+eyJoaXN0b3J5IjpbLTg5NDAzMjQ4NSw4NzgzMzc2MDQsLTExNT
+Q5MDUwNjUsLTk4MjcxMDY3LDE0MzE4MjEwNzQsMTIyODYzNjg0
+MywtMTU2MjY5NzA3NF19
 -->
