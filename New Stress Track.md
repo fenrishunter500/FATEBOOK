@@ -17,14 +17,18 @@ In order to preform a restoration spell, firstly the casting Mahou Shoujo must h
 	Example
 	Sally has been the focus of the evil Dark Moon Witch's attacks.
 	These atttacks have filled up all three boxes of Sally's Purity
-	track, as well as taking up her Minor consequence. Luckily, 
+	track, as well as taking up her Minor consequence. Luckily,
+	Sally has avoided any damage to her physical body, but she is
+	reverted back to her ordinary form. 
+	
+	, coming into the scene, notes Sally's
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODA2OTgyOTUsLTExNTQ5MDUwNjUsLT
-k4MjcxMDY3LDE0MzE4MjEwNzQsMTIyODYzNjg0MywtMTU2MjY5
-NzA3NF19
+eyJoaXN0b3J5IjpbMTEyMTMxNDIzNSwtMTE1NDkwNTA2NSwtOT
+gyNzEwNjcsMTQzMTgyMTA3NCwxMjI4NjM2ODQzLC0xNTYyNjk3
+MDc0XX0=
 -->
