@@ -21,14 +21,16 @@ In order to preform a restoration spell, firstly the casting Mahou Shoujo must h
 	Sally has avoided any damage to her physical body, but she is
 	reverted back to her ordinary form. 
 	
-	, coming into the scene, notes Sally's
+	Claudia, coming into the scene, notes Sally's state and spends
+	her first action attempting an Overcome roll to restore Sally's
+	magical powers. Claudia has the 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTMxNDIzNSwtMTE1NDkwNTA2NSwtOT
+eyJoaXN0b3J5IjpbLTgyNDI5NTI4OSwtMTE1NDkwNTA2NSwtOT
 gyNzEwNjcsMTQzMTgyMTA3NCwxMjI4NjM2ODQzLC0xNTYyNjk3
 MDc0XX0=
 -->
