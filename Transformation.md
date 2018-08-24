@@ -1,6 +1,6 @@
 ## Transformations and Transformation Boons
 
-One of the most iconic conventions of the Mahou Shoujo genre is the transformation sequence. Not only are they an excuse to have a visually interesting cut scene, but they also serve to give the viewer a visual clue that the 
+One of the most iconic conventions of the Mahou Shoujo genre is the transformation sequence. Not only are they an excuse to have a visually interesting cut scene, but they also serve to give the viewer a visual clue that things are about to get exciting.
 
 In [SYSTEM NAME], this sequence serves as more than 
 
@@ -12,6 +12,6 @@ In [SYSTEM NAME], this sequence serves as more than
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTA5MjQyMSwxMDA1MTc3MzU2LC01Mz
-YyMjg3NTUsLTE4Njk5ODU1ODIsLTUzMzk1NTIxXX0=
+eyJoaXN0b3J5IjpbOTcyNjc2ODEyLDEwMDUxNzczNTYsLTUzNj
+IyODc1NSwtMTg2OTk4NTU4MiwtNTMzOTU1MjFdfQ==
 -->
