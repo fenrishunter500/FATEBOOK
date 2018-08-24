@@ -10,7 +10,7 @@ In addition, once the Purity stress track has been filled, a Mahou Shoujo loses 
 
 ## Restoring Purity
 
-Purity can be restored in the same manner as the Physical and Mental tracks. Generally, this will be after combat has been ended and the character has had a chance to catch her breath. However, some form of restoration spell can be utilized in a pinch. In order to preform a restoration spell, firstly the casting Mahou Shoujo must have an Aspect that allows such a spell as detailed on pg [PG NUMBER]. If so, the player must make an Overcome action using Magic Utility vs. a difficulty equal to the 
+Purity can be restored in the same manner as the Physical and Mental tracks. Generally, this will be after combat has been ended and the character has had a chance to catch her breath. However, some form of restoration spell can be utilized in a pinch. In order to preform a restoration spell, firstly the casting Mahou Shoujo must have an Aspect that allows such a spell as detailed on pg [PG NUMBER]. If so, the player must make an Overcome action using Magic Utility vs. a difficulty equal to the Purity box to be healed plus 
 
 
 
@@ -18,6 +18,6 @@ Purity can be restored in the same manner as the Physical and Mental tracks. Gen
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg1MzM3NjYsMTQzMTgyMTA3NCwxMj
-I4NjM2ODQzLC0xNTYyNjk3MDc0XX0=
+eyJoaXN0b3J5IjpbLTk4MjcxMDY3LDE0MzE4MjEwNzQsMTIyOD
+YzNjg0MywtMTU2MjY5NzA3NF19
 -->
