@@ -23,14 +23,14 @@ In order to preform a restoration spell, firstly the casting Mahou Shoujo must h
 	
 	Claudia, coming into the scene, notes Sally's state and spends
 	her first action attempting an Overcome roll to restore Sally's
-	magical powers. Claudia has the 
+	magical powers. Claudia has the [Magic] Aspect "The Unfetterer"
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDI5NTI4OSwtMTE1NDkwNTA2NSwtOT
+eyJoaXN0b3J5IjpbLTg2Mzg4ODEzOSwtMTE1NDkwNTA2NSwtOT
 gyNzEwNjcsMTQzMTgyMTA3NCwxMjI4NjM2ODQzLC0xNTYyNjk3
 MDc0XX0=
 -->
