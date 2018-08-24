@@ -20,7 +20,7 @@ How two Mahou Shoujo decide to utilize these skills can be very different indeed
 
 While Magic Fight and Magic Shoot are fairly self-explanatory, Magic Utility can be a little more tricky. Utility spells are any spell that is not used to directly attack an opponent. If attempting to make an Attack action with magic, either Magic Fight or Magic Shoot should be rolled. Magic Utility, on the other hand, encompasses all attempts at using the Create an Advantage or Overcome actions. Defend actions can be taken with either Magic Fight or Magic Utility depending on the spell (Magic Shoot being too offensively oriented for the task without a proper stunt allowing its use.) 
 
-In addition, Magic Utility has uses beyond spellcasting. During the Transformation Phase of combat, a player can make a Magic Utility roll against a difficulty equal to the highest Corruption level (or Purity, if circumstances call for it) of all opponents present at the start of combat. If the player succeeds, she may choose one bonus from the list on page [PG NUMBER]. Whenever the Mahou Shoujo is reverts back to her regular form, whether from filling her Purity stress track, the end of combat, or any other special effect or event, this bonus is lost.
+In addition, Magic Utility has uses beyond spellcasting. During the Transformation Phase of combat, a player can make a Magic Utility roll against a difficulty equal to the highest Corruption level of all opponents present at the start of combat. If the player succeeds, she may choose one bonus from the list on page [PG NUMBER]. Whenever the Mahou Shoujo is reverts back to her regular form, whether from filling her Purity stress track, the end of combat, or any other special effect or event, this bonus is lost.
 
 	While each player certainly has narrative control over the
 	magical spells their characters cast, it is ultimately up to the
@@ -45,8 +45,9 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MTA3ODY2LC0yMTMzNjMwNjkzLDE0MD
-Q0MzMxMyw0NTQzMTAzOTAsLTQ3NDc1MTk1NywtNDgzNzU5NDk4
-LDQxNTgzODAzMiwtMTkwODg5MzAsLTEyNjE5MTczODksMjAwOT
-gxNTMwOSwtMTIwMjc2MDE0NCwyOTg0MTc3MDldfQ==
+eyJoaXN0b3J5IjpbMTkwODAzMTY2NCwzOTgxMDc4NjYsLTIxMz
+M2MzA2OTMsMTQwNDQzMzEzLDQ1NDMxMDM5MCwtNDc0NzUxOTU3
+LC00ODM3NTk0OTgsNDE1ODM4MDMyLC0xOTA4ODkzMCwtMTI2MT
+kxNzM4OSwyMDA5ODE1MzA5LC0xMjAyNzYwMTQ0LDI5ODQxNzcw
+OV19
 -->
