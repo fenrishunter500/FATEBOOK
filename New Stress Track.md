@@ -8,9 +8,9 @@ Unlike the Physical and Mental stress tracks, a character is not necessarily tak
 
 In addition, once the Purity stress track has been filled, a Mahou Shoujo loses her ability to utilized any of the three Magical skills. This remains in effect until she has healed at least one box of Purity stress, regardless of the method of healing.
 
-## Healing Purity
+## Restoring Purity
 
-Purity can be healed in the same manner as the Physical and Mental tracks. Generally, this will be after combat has been ended and the character has had a chance to catch her breath. However, a healing-based 
+Purity can be restored in the same manner as the Physical and Mental tracks. Generally, this will be after combat has been ended and the character has had a chance to catch her breath. However, some form of restoration spell can be utilized in a pinch. In order to preform a 
 
 
 
@@ -18,6 +18,6 @@ Purity can be healed in the same manner as the Physical and Mental tracks. Gener
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTgyMTA3NCwxMjI4NjM2ODQzLC0xNT
-YyNjk3MDc0XX0=
+eyJoaXN0b3J5IjpbLTEyMjkwNzYzMzcsMTQzMTgyMTA3NCwxMj
+I4NjM2ODQzLC0xNTYyNjk3MDc0XX0=
 -->
