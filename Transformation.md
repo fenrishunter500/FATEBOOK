@@ -13,11 +13,14 @@ Just like in your favorite magical girls anime, this Transformation Phase takes 
 
 	GMs, don't forget to award a Fate Point to any exceptional
 	transformation sequences at the table! However, Players, you
-	should keep in mind the rest of th
+	should keep in mind and respect everyone else's gaming time...
+	don't press on and on and on with a description in an attempt to
+	mine a free Fate Point from your GM, especially if the rest of
+	your party seems to be disinterested and disengaged!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3NjYwODk5LDUyMjkzNDI3MCwxNjM3NT
-cxMDQ2LDk3MjY3NjgxMiwxMDA1MTc3MzU2LC01MzYyMjg3NTUs
-LTE4Njk5ODU1ODIsLTUzMzk1NTIxXX0=
+eyJoaXN0b3J5IjpbLTExMDUwOTQxMDYsNTIyOTM0MjcwLDE2Mz
+c1NzEwNDYsOTcyNjc2ODEyLDEwMDUxNzczNTYsLTUzNjIyODc1
+NSwtMTg2OTk4NTU4MiwtNTMzOTU1MjFdfQ==
 -->
