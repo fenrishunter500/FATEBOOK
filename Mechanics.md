@@ -20,7 +20,7 @@ Magic Systems?
 
  - [x] Tianxia-style magical system? (NO, SKILL-BASED)
  - [x] Could Magic instead be an existing Stunt/Aspect, or a new additional one? (NO, SKILL-BASED)
- - [x] Relatedly, should magic be standardized (i.e. can only cast spells in book) or more Cinematically loose (and dependent on player's imagination?) (CINEMATICALLY LOOSE)
+ - [ ] Relatedly, should magic be standardized (i.e. can only cast spells in book) or more Cinematically loose (and dependent on player's imagination?) (CINEMATICALLY LOOSE)
  - [x] In addition, new skill: Magic (FIGHT, SHOOT, UTILITY)
 
 Colors?
@@ -54,6 +54,6 @@ Licensing
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk2MDkzNTUsMjUzODEwODkzLC03OD
-k0NDk2OTFdfQ==
+eyJoaXN0b3J5IjpbLTEwNTg2OTAyNywtMTQ4OTYwOTM1NSwyNT
+M4MTA4OTMsLTc4OTQ0OTY5MV19
 -->
