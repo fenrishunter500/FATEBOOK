@@ -12,9 +12,9 @@ In addition, once the Purity stress track has been filled, a Mahou Shoujo loses 
 
 Purity can be restored in the same manner as the Physical and Mental tracks. Generally, this will be after combat has been ended and the character has had a chance to catch her breath. However, some form of restoration spell can be utilized in a pinch. The caster and the target for restoration need not be the same character. Each character may only benefit from such a spell once per scene. 
 
-In order to preform a restoration spell, first the casting Mahou Shoujo must have an Aspect that would allow such a spell to be cast as detailed on pg [PG NUMBER]. If so, then the player must make an Overcome action using Magic Utility vs. a difficulty equal to the Purity box to be restored. In cases where the target currently has been reverted to her ordinary form, the caster has a bonus of (+2) to her roll. upon a succeeds, the box is cleared and available for use. In the case of a success with style, an additional box can be restored. This additional box must be the lowest value box below the box restored. 
+In order to preform a restoration spell, first the casting Mahou Shoujo must have an Aspect that would allow such a spell to be cast as detailed on pg [PG NUMBER]. If so, then the player must make an Overcome action using Magic Utility vs. a difficulty equal to the Purity box to be restored. In cases where the target currently has been reverted to her ordinary form, the caster has a bonus of (+2) to her roll. Upon a success, the box is cleared and available for use; in the case of a success with style, an additional box can be restored. This additional box must be the lowest value box below the box restored. 
 
-If this restoration frees up a hit box on a reverted character, she now has access once more to her magic. In addition to gaining back the use of the Magical skills, she immediately goes through Transformation again. However, she cannot roll for another Transformation Boon, as the boon is only gained at the beginning of a combat scene.
+If this restoration frees up a hit box on a reverted character, she now has access once more to her magic. In addition to gaining back the use of the Magical skills, she immediately goes through a second Transformation sequence. However, she cannot roll for another Transformation Boon, as the boon is only gained at the beginning of a combat scene.
 
 	Example
 	[DUO A] has been the focus of the evil Dark Moon Witch's
@@ -46,7 +46,7 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NjIxNTM5LDg3ODMzNzYwNCwtMTE1ND
-kwNTA2NSwtOTgyNzEwNjcsMTQzMTgyMTA3NCwxMjI4NjM2ODQz
-LC0xNTYyNjk3MDc0XX0=
+eyJoaXN0b3J5IjpbLTE4MDk3Nzg5MDAsODc4MzM3NjA0LC0xMT
+U0OTA1MDY1LC05ODI3MTA2NywxNDMxODIxMDc0LDEyMjg2MzY4
+NDMsLTE1NjI2OTcwNzRdfQ==
 -->
