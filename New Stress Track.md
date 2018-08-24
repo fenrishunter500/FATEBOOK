@@ -38,7 +38,7 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 	1 hit. Had [DUO 2] targeted her 1 hit or 3 hit Purity box, only
 	that single box would be recovered. [DUO A]'s magical powers are
 	also restored to her, and she is back in the fight! Though she
-	performs a second Transformation, she does not roll a Magical
+	performs a second Transformation, she does not make a Magical
 	Utility roll due to her already having done so earlier this
 	combat.
 
@@ -47,7 +47,7 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDE5MzE2OCw4NzgzMzc2MDQsLTExNT
-Q5MDUwNjUsLTk4MjcxMDY3LDE0MzE4MjEwNzQsMTIyODYzNjg0
-MywtMTU2MjY5NzA3NF19
+eyJoaXN0b3J5IjpbNDI5MTMwMDE1LDg3ODMzNzYwNCwtMTE1ND
+kwNTA2NSwtOTgyNzEwNjcsMTQzMTgyMTA3NCwxMjI4NjM2ODQz
+LC0xNTYyNjk3MDc0XX0=
 -->
