@@ -21,17 +21,18 @@ In order to preform a restoration spell, firstly the casting Mahou Shoujo must h
 	consequence. Luckily, [DUO A] has avoided any damage to her
 	physical body, but she is reverted back to her ordinary form. 
 	
-	[DUO B], coming into the scene, notes [DUO A's state and spends
-	her first action attempting an Overcome roll to restore Sally's
-	magical powers. Claudia has the [MagicType] Aspect "The 
-	Unfetterer", representing her ability to 
+	[DUO B], coming into the scene, notes [DUO A]'s state and spends
+	her first action attempting an Overcome roll to restore
+	[DUO A]'s magical powers. [DUO B] has the [MagicType] Aspect
+	"[ASPECT]", and after a moment's explanation the GM allows the
+	roll. She targets  
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNDcyNTQ1LC0xMTU0OTA1MDY1LC05OD
+eyJoaXN0b3J5IjpbNTgzODk2MTUyLC0xMTU0OTA1MDY1LC05OD
 I3MTA2NywxNDMxODIxMDc0LDEyMjg2MzY4NDMsLTE1NjI2OTcw
 NzRdfQ==
 -->
