@@ -35,6 +35,8 @@ In addition, Magic Utility has uses beyond spellcasting. During the Transformati
 
 During character creation, a Mahou Shoujo can gain additional Purity stress boxes depending on her Magical skills. If two or more of her skills (whether Magic Fight, Magic Shoot, or Magic Utility) is rated at Average (+1) or Fair (+2), she gains one additional stress box, or if at Good (+3) or higher she gains two additional stress boxes. In addition, if at least one of these skills is at Superb (+5) or higher the Mahou Shoujo will also gain an additional mild consequence slot. This slot is specifically restricted to Purity harm and cannot be used to lessen the impact of a physical or mental hit. 
 
+If a Mahou Shoujo happens to fill up her Purity track and is reverted back to her regular form, she looses the ability to use her Magical skills until she has healed at least one of her Purity stress boxes.
+
 ## Skill Modifications
 
 In addition to the new skills listed above, the following skills are modified to behave as thusly:
@@ -43,8 +45,8 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDQzMzEzLDQ1NDMxMDM5MCwtNDc0Nz
-UxOTU3LC00ODM3NTk0OTgsNDE1ODM4MDMyLC0xOTA4ODkzMCwt
-MTI2MTkxNzM4OSwyMDA5ODE1MzA5LC0xMjAyNzYwMTQ0LDI5OD
-QxNzcwOV19
+eyJoaXN0b3J5IjpbLTIxMzM2MzA2OTMsMTQwNDQzMzEzLDQ1ND
+MxMDM5MCwtNDc0NzUxOTU3LC00ODM3NTk0OTgsNDE1ODM4MDMy
+LC0xOTA4ODkzMCwtMTI2MTkxNzM4OSwyMDA5ODE1MzA5LC0xMj
+AyNzYwMTQ0LDI5ODQxNzcwOV19
 -->
