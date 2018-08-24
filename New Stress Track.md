@@ -30,8 +30,9 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 	roll. She targets [DUO A]'s 2 hit Purity box, a Fair (+2)
 	difficulty. Rolling a Mediocre (+0) roll, and but with her
 	Good (+3) Magic Utility, she succeeds. However, [DUO A] has
-	reverted, adding an additonal (+2) for a total roll of
-	Superb (+5) and a Success with Style. 
+	been reverted back to an ordinary girl, adding an additonal (+2)
+	to the roll for a total result of Superb (+5) and a success with
+	style. 
 	
 	[DUO A] restores not only her 2 hit Purity box, but also her
 	1 hit. Had [DUO 2] targeted her 1 hit or 3 hit Purity box, only
@@ -46,7 +47,7 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk3Nzg5MDAsODc4MzM3NjA0LC0xMT
-U0OTA1MDY1LC05ODI3MTA2NywxNDMxODIxMDc0LDEyMjg2MzY4
-NDMsLTE1NjI2OTcwNzRdfQ==
+eyJoaXN0b3J5IjpbLTk1MDE5MzE2OCw4NzgzMzc2MDQsLTExNT
+Q5MDUwNjUsLTk4MjcxMDY3LDE0MzE4MjEwNzQsMTIyODYzNjg0
+MywtMTU2MjY5NzA3NF19
 -->
