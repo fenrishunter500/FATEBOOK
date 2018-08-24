@@ -10,7 +10,7 @@ In addition, once the Purity stress track has been filled, a Mahou Shoujo loses 
 
 ## Healing Purity
 
-Purity can be healed in the same manner as the Physical and Mental tracks. Generally, this will be after combat has been ended and the character has had a chance to catch her breath. 
+Purity can be healed in the same manner as the Physical and Mental tracks. Generally, this will be after combat has been ended and the character has had a chance to catch her breath. However, a healing-based 
 
 
 
@@ -18,6 +18,6 @@ Purity can be healed in the same manner as the Physical and Mental tracks. Gener
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5OTg1ODkxNywxMjI4NjM2ODQzLC0xNT
+eyJoaXN0b3J5IjpbMTQzMTgyMTA3NCwxMjI4NjM2ODQzLC0xNT
 YyNjk3MDc0XX0=
 -->
