@@ -6,7 +6,11 @@ In addition to the Physical and Mental stress tracks of Fate Core, [SYSTEM NAME]
 
 Unlike the Physical and Mental stress tracks, a character is not necessarily taken out of a combat when her Purity track has been filled. Instead, she is reverted back to her everyday form. This reversion happens regardless of whether or not she has any free consequences available for use, and as such while devoid of her magical powers she can still aid her teammates in combat.
 
-In addition, once the Purity stress track has been filled, a Mahou Shoujo loses her ability to utilized any of the three Magical skills. This remains in effect until she has healed at least one box of Purity stress, regardless of the method of healing. 
+In addition, once the Purity stress track has been filled, a Mahou Shoujo loses her ability to utilized any of the three Magical skills. This remains in effect until she has healed at least one box of Purity stress, regardless of the method of healing.
+
+## Healing Purity
+
+Purity can be healed in the same manner as the Physical and Mental tracks. 
 
 
 
@@ -14,6 +18,5 @@ In addition, once the Purity stress track has been filled, a Mahou Shoujo loses 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjUyODg1NDgsLTE1NjI2OTcwNzRdfQ
-==
+eyJoaXN0b3J5IjpbMTIyODYzNjg0MywtMTU2MjY5NzA3NF19
 -->
