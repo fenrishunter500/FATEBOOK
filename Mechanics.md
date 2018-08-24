@@ -54,8 +54,10 @@ Licensing
  - [x] Fate CC-BY w/ Powered By Fate logo preferred atm. 
  - [x] Other systems? I like Fate tho... (NO, NOT FOR NOW)
 
+Page Density: ~450 words per page
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc0MDAyMTYsLTE0ODk2MDkzNTUsMj
-UzODEwODkzLC03ODk0NDk2OTFdfQ==
+eyJoaXN0b3J5IjpbLTU5MDYzODk5OSwtMTQ4OTYwOTM1NSwyNT
+M4MTA4OTMsLTc4OTQ0OTY5MV19
 -->
