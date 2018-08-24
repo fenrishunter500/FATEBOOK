@@ -1,6 +1,6 @@
 ## Purity
 
-In addition to the Physical and Mental stress tracks of Fate Core, [SYSTEM NAME] also uses a third stress track, the Purity stress track. This new track represents a Mahou Shoujo's connection to the raw energies that make up their suite of powers. As such, the Purity stress track can normally only be damaged during combat after the character has transformed into her Mahou Shoujo form. Even so, there are (blessedly) rare instances where the track can be damaged outside of her transformation, representing a particularly virulent and reprehensible evil that gnaws at the very core of the Mahou Shoujo. 
+In addition to the Physical and Mental stress tracks of Fate Core, [SYSTEM NAME] also uses a third stress track, the Purity stress track. This new track represents a Mahou Shoujo's connection to the raw energies that make up their suite of powers. As such, the Purity stress track can normally only be damaged during combat after the character has transformed into her Mahou Shoujo form. Even so, there are (blessedly) rare instances where the track can be damaged outside of her transformation, representing a particularly virulent and reprehensible evil that gnaws at the very core of the Mahou Shoujo. These should generally be represented by a Purity-based consequence, such is the weight of their evil.
 
 ## Filling the Purity Track
 
@@ -10,7 +10,7 @@ In addition, once the Purity stress track has been filled, a Mahou Shoujo loses 
 
 ## Healing Purity
 
-Purity can be healed in the same manner as the Physical and Mental tracks. 
+Purity can be healed in the same manner as the Physical and Mental tracks. Generally, this will be after the combat is 
 
 
 
@@ -18,5 +18,6 @@ Purity can be healed in the same manner as the Physical and Mental tracks.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODYzNjg0MywtMTU2MjY5NzA3NF19
+eyJoaXN0b3J5IjpbLTE2MjEyMjkxMTgsMTIyODYzNjg0MywtMT
+U2MjY5NzA3NF19
 -->
