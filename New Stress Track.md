@@ -29,14 +29,17 @@ In order to preform a restoration spell, firstly the casting Mahou Shoujo must h
 	difficulty. Rolling a Mediocre (+0) roll, and but with her
 	Good (+3) Magic Utility, she succeeds. However, [DUO A] has
 	reverted, adding an additonal (+2) for a total roll of
-	Superb (+5) and a 
+	Superb (+5) and a Success with Style. 
+	[
+	[DUO A] restores not only her 2 hit Purity box, but also her
+	1 hit. 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjQ2NzkxNiwtMTE1NDkwNTA2NSwtOT
+eyJoaXN0b3J5IjpbLTk4MjI4MjE2NywtMTE1NDkwNTA2NSwtOT
 gyNzEwNjcsMTQzMTgyMTA3NCwxMjI4NjM2ODQzLC0xNTYyNjk3
 MDc0XX0=
 -->
