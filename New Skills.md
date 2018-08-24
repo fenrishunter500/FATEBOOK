@@ -33,16 +33,7 @@ In addition, Magic Utility has uses beyond spellcasting. During the Transformati
 
 ## Magical Skills and Purity
 
-During character creation, a Mahou Shoujo can gain additional Purity stress boxes depending on her Magical skills. If two or more of her skills (whether Magic Fight, Magic Shoot, or Magic Utility) is rated at Average (+1) or Fair (+2), she gains one additional stress box, or if at Good (+3) or higher she gains two additional stress boxes. 
-
-	Note:
-	Similar to how Physique and Will affect Physical and Mental
-	Stress respectively, these bonus stress boxes do not stack. For
-	example, say a Mahou Shoujo starts the game with a Fair (+2) in
-	Magic Fight and Magic Shoot and a Good (+3) in Magic Utility,
-	she gains an extra stress box. If she were to increase her 
-	Magic Fight to Good (+3) as well, she would only gain a single
-	additional stress box, for a cumulative two extra stress boxes.
+During character creation, a Mahou Shoujo can gain additional Purity stress boxes as well as an extra co depending on her Magical skills. If two or more of her skills (whether Magic Fight, Magic Shoot, or Magic Utility) is rated at Average (+1) or Fair (+2), she gains one additional stress box, or if at Good (+3) or higher she gains two additional stress boxes. 
 
 ## Skill Modifications
 
@@ -52,7 +43,8 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDc1MTk1NywtNDgzNzU5NDk4LDQxNT
-gzODAzMiwtMTkwODg5MzAsLTEyNjE5MTczODksMjAwOTgxNTMw
-OSwtMTIwMjc2MDE0NCwyOTg0MTc3MDldfQ==
+eyJoaXN0b3J5IjpbLTEzNTEwNDYxOTksLTQ3NDc1MTk1NywtND
+gzNzU5NDk4LDQxNTgzODAzMiwtMTkwODg5MzAsLTEyNjE5MTcz
+ODksMjAwOTgxNTMwOSwtMTIwMjc2MDE0NCwyOTg0MTc3MDldfQ
+==
 -->
