@@ -2,7 +2,7 @@
 
 One of the most iconic conventions of the Mahou Shoujo genre is the transformation sequence. Not only are they an excuse to have a visually interesting cut scene, but they also serve to give the viewer a visual clue that things are about to get exciting.
 
-In [SYSTEM NAME], this sequence is recreated in the form of the Transformation Phase. At the beginning of combat, each Mahou Shoujo involved makes a Magic Utility roll against a difficulty equal to 
+In [SYSTEM NAME], this sequence is recreated in the form of the Transformation Phase. At the beginning of combat, before rolling Notice toeach Mahou Shoujo involved makes a Magic Utility roll against a difficulty equal to the highest Corruption level of all opponents present at the start of the combat scene.
 
 1. As the magic swirls and coalesces around you, its residual energies cling protectively to your newly transformed form. Gain a +2 bonus to a single Defend action this combat. 
 2. Amidst your transformation, you can feel the magical energies almost begging you to vanquish this evil before you. Gain a +2 bonus to the first Attack action you make this combat.
@@ -12,7 +12,7 @@ In [SYSTEM NAME], this sequence is recreated in the form of the Transformation P
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyOTM0MjcwLDE2Mzc1NzEwNDYsOTcyNj
-c2ODEyLDEwMDUxNzczNTYsLTUzNjIyODc1NSwtMTg2OTk4NTU4
-MiwtNTMzOTU1MjFdfQ==
+eyJoaXN0b3J5IjpbLTEzMjIzNjQxNTgsNTIyOTM0MjcwLDE2Mz
+c1NzEwNDYsOTcyNjc2ODEyLDEwMDUxNzczNTYsLTUzNjIyODc1
+NSwtMTg2OTk4NTU4MiwtNTMzOTU1MjFdfQ==
 -->
