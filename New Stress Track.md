@@ -2,7 +2,7 @@
 
 In addition to the Physical and Mental stress tracks of Fate Core, [SYSTEM NAME] also uses a third stress track, the Purity stress track. This new track represents a Mahou Shoujo's connection to the raw energies that make up their suite of powers. As such, the Purity stress track can normally only be damaged during combat after the character has transformed into her Mahou Shoujo form. 
 
-During combat, a Mahou Shoujo can elect to allow damage to either apply to her Purity or her Physical/Mental Stress tracks. However, 
+During combat, a Mahou Shoujo can elect to allow damage to either apply to her Purity or her Physical/Mental Stress tracks as applicable. However, this choice is only available to her so long as there are more Purity boxes crossed off than Physical and Mental combined. 
 
 Players can gain additional Purity stress boxes in a similar fashion to the Physical and Mental stress tracks with one key difference. At least two of her three Magical skills must be ranked at Average (+1) or Fair (+2) for a single additional stress box. If two of the three are at Good (+3) or higher, she instead receives two additional stress boxes.
 
@@ -51,7 +51,7 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDE5MDc1NzgsODc4MzM3NjA0LC0xMT
+eyJoaXN0b3J5IjpbLTIwMzI5NDY1NTksODc4MzM3NjA0LC0xMT
 U0OTA1MDY1LC05ODI3MTA2NywxNDMxODIxMDc0LDEyMjg2MzY4
 NDMsLTE1NjI2OTcwNzRdfQ==
 -->
