@@ -6,7 +6,7 @@ In addition to the Physical and Mental stress tracks of Fate Core, [SYSTEM NAME]
 
 Unlike the Physical and Mental stress tracks, a character is not necessarily taken out of a combat when her Purity track has been filled. Instead, she is reverted back to her everyday form. This reversion happens regardless of whether or not she has any free consequences available for use, and as such while devoid of her magical powers she can still aid her teammates in combat. If afterwards she is unable to mitigate a hit with either a consequence or a Physical or Mental stress box, she will then be taken out of a conflict or forced to concede.
 
-In addition, once the Purity stress track has been filled, a Mahou Shoujo loses her ability to utilized any of the three Magical skills. This remains in effect until she has healed at least one box of Purity stress, regardless of the method of healing.
+In addition, once the Purity stress track has been filled, a Mahou Shoujo loses her ability to utilize any of the three Magical skills. This remains in effect until she has healed at least one box of Purity stress, regardless of the method of healing.
 
 ## Restoring Purity
 
@@ -14,7 +14,7 @@ Purity can be restored in the same manner as the Physical and Mental tracks. Gen
 
 In order to preform a restoration spell, firstly the casting Mahou Shoujo must have an Aspect that allows such a spell as detailed on pg [PG NUMBER]. If so, then player must make an Overcome action using Magic Utility vs. a difficulty equal to the Purity box to be restored. If the target currently has been reverted to her ordinary form, the caster has a bonus of (+2) to her roll. If she succeeds, the box is cleared and available for use. In the case of a success with style, an additional box can be restored. This additional box must be the lowest value box below the box restored. 
 
-If this restoration f
+If this restoration frees up a hit box on a reverted character, she now has access once more t
 
 	Example
 	[DUO A] has been the focus of the evil Dark Moon Witch's
@@ -46,7 +46,7 @@ If this restoration f
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0OTU5MTk1LC0xMTU0OTA1MDY1LC05OD
-I3MTA2NywxNDMxODIxMDc0LDEyMjg2MzY4NDMsLTE1NjI2OTcw
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTIwMzI5NzI1MTgsLTExNTQ5MDUwNjUsLT
+k4MjcxMDY3LDE0MzE4MjEwNzQsMTIyODYzNjg0MywtMTU2MjY5
+NzA3NF19
 -->
