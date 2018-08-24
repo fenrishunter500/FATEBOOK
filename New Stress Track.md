@@ -15,22 +15,23 @@ Purity can be restored in the same manner as the Physical and Mental tracks. Gen
 In order to preform a restoration spell, firstly the casting Mahou Shoujo must have an Aspect that allows such a spell as detailed on pg [PG NUMBER]. If so, then player must make an Overcome action using Magic Utility vs. a difficulty equal to the Purity box to be restored. If the target currently has been reverted to her ordinary form, the caster has a bonus of (+2) to her roll. If she succeeds, the box is cleared and available for use. In the case of a success with style, an additional box can be restored. This additional box must be the lowest value box below the box restored. 
 
 	Example
-	Sally has been the focus of the evil Dark Moon Witch's attacks.
-	These atttacks have filled up all three boxes of Sally's Purity
-	track, as well as taking up her Minor consequence. Luckily,
-	Sally has avoided any damage to her physical body, but she is
-	reverted back to her ordinary form. 
+	[DUO A] has been the focus of the evil Dark Moon Witch's
+	attacks. These atttacks have filled up all three boxes of
+	[DUO A]'s Purity track, as well as taking up her Minor
+	consequence. Luckily, [DUO A] has avoided any damage to her
+	physical body, but she is reverted back to her ordinary form. 
 	
-	Claudia, coming into the scene, notes Sally's state and spends
+	[DUO B], coming into the scene, notes [DUO A's state and spends
 	her first action attempting an Overcome roll to restore Sally's
-	magical powers. Claudia has the [Magic] Aspect "The Unfetterer"
+	magical powers. Claudia has the [MagicType] Aspect "The 
+	Unfetterer", representing her ability to 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Mzg4ODEzOSwtMTE1NDkwNTA2NSwtOT
-gyNzEwNjcsMTQzMTgyMTA3NCwxMjI4NjM2ODQzLC0xNTYyNjk3
-MDc0XX0=
+eyJoaXN0b3J5IjpbMjUzNDcyNTQ1LC0xMTU0OTA1MDY1LC05OD
+I3MTA2NywxNDMxODIxMDc0LDEyMjg2MzY4NDMsLTE1NjI2OTcw
+NzRdfQ==
 -->
