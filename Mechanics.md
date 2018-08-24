@@ -16,10 +16,6 @@ Limit Break
  - [ ] LB should not be easy to tap into. Look into limitations. Transform back to normal? Major negatives to rolls?
  - [ ] Possible limitation: Limit Break is only available to you if your Purity track is over half-way filled, or you currently have a Severe Purity Consequence on your sheet.
 
-Joint Attacks
-
- 1. List item
-
 Magic Systems?
 
  - [x] Tianxia-style magical system? (NO, SKILL-BASED)
@@ -58,6 +54,6 @@ Licensing
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzgzODcxNSwtMTQ4OTYwOTM1NSwyNT
+eyJoaXN0b3J5IjpbLTg4MTIxMTQwMCwtMTQ4OTYwOTM1NSwyNT
 M4MTA4OTMsLTc4OTQ0OTY5MV19
 -->
