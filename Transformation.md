@@ -1,4 +1,4 @@
-## Transformation Sequence
+## Transformations and Transformation Boons
 
 1. As the magic swirls and coalesces around you, its residual energies cling protectively to your newly transformed form. Gain a +2 bonus to a single Defend action this combat. 
 2. Amidst your transformation, you can feel the magical energies almost begging you to vanquish this evil before you. Gain a +2 bonus to the first Attack action you make this combat.
@@ -8,5 +8,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk5ODU1ODIsLTUzMzk1NTIxXX0=
+eyJoaXN0b3J5IjpbLTUzNjIyODc1NSwtMTg2OTk4NTU4MiwtNT
+MzOTU1MjFdfQ==
 -->
