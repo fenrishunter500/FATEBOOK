@@ -46,6 +46,8 @@ Misc.
  - [ ] Intro module. A massive WANT but not necessarily a NEED
  - [ ] Fictions!
  - [ ] Art!
+ - [ ] List of M.G. tropes and how to possibly utilize them
+ - [ ] List of material for inspiration for games
 
 Licensing
 
@@ -54,6 +56,6 @@ Licensing
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTIxMTQwMCwtMTQ4OTYwOTM1NSwyNT
-M4MTA4OTMsLTc4OTQ0OTY5MV19
+eyJoaXN0b3J5IjpbLTE0NDc0MDAyMTYsLTE0ODk2MDkzNTUsMj
+UzODEwODkzLC03ODk0NDk2OTFdfQ==
 -->
