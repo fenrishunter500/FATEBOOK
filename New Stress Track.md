@@ -14,7 +14,7 @@ Purity can be restored in the same manner as the Physical and Mental tracks. Gen
 
 In order to preform a restoration spell, firstly the casting Mahou Shoujo must have an Aspect that allows such a spell as detailed on pg [PG NUMBER]. If so, then player must make an Overcome action using Magic Utility vs. a difficulty equal to the Purity box to be restored. If the target currently has been reverted to her ordinary form, the caster has a bonus of (+2) to her roll. If she succeeds, the box is cleared and available for use. In the case of a success with style, an additional box can be restored. This additional box must be the lowest value box below the box restored. 
 
-If this restoration frees up a hit box on a reverted character, she now has access once more t
+If this restoration frees up a hit box on a reverted character, she now has access once more to her magic. In addition to gaining back the use of the Magical skills, she immediately goes through Transformation again, but she cannot roll for another Transformation Boon. 
 
 	Example
 	[DUO A] has been the focus of the evil Dark Moon Witch's
@@ -46,7 +46,7 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzI5NzI1MTgsLTExNTQ5MDUwNjUsLT
-k4MjcxMDY3LDE0MzE4MjEwNzQsMTIyODYzNjg0MywtMTU2MjY5
-NzA3NF19
+eyJoaXN0b3J5IjpbODY3MzgyNTE1LC0xMTU0OTA1MDY1LC05OD
+I3MTA2NywxNDMxODIxMDc0LDEyMjg2MzY4NDMsLTE1NjI2OTcw
+NzRdfQ==
 -->
