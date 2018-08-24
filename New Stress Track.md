@@ -26,14 +26,14 @@ In order to preform a restoration spell, firstly the casting Mahou Shoujo must h
 	[DUO A]'s magical powers. [DUO B] has the [MagicType] Aspect
 	"[ASPECT]", and after a moment's explanation the GM allows the
 	roll. She targets [DUO A]'s 2 hit Purity box, a Fair (+2)
-	difficulty. Rolling an 
+	difficulty. Rolling a Mediocre (+0) roll, and with only a +1 
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc5NjM1MTYsLTExNTQ5MDUwNjUsLT
+eyJoaXN0b3J5IjpbLTE3ODM3Mzc3MzcsLTExNTQ5MDUwNjUsLT
 k4MjcxMDY3LDE0MzE4MjEwNzQsMTIyODYzNjg0MywtMTU2MjY5
 NzA3NF19
 -->
