@@ -1,0 +1,20 @@
+## Spellcasting
+
+Central to a magical girl's abilities is her access to the magical energies that swirl unseen all around us. How each Mahou Shojou accesses these arcane powers varies in an infinite amount of ways, as varied as their own personalities, likes, and dislikes. 
+
+During Character Creation, one of your Aspects must reflect your character's core abilities. It can be as simple as the High Concepts "The Flame Wielding Princess" and "Shinto Priestess" or something more abstract such as the Aspect "Friend to Animals of All Shapes and Sizes." 
+
+Whenever any Magical skill is attempted, the player must first justify which of the character's Aspects could arguably support such a spell being cast. GMs have the ultimate authority on whether or not a spell makes sense, but do not allow this to bog down play. Obviously, "The Flame Princess" is going to be able to cast just about anything involving fire, but it is easier to explain her casting fireballs and conjuring flame shields than it is to explain why her Aspect allows her to teleport via fireplace! 
+
+Once the spell has been chosen, and any requisite explanations are made, the player will then make a Magical skill roll based off of what he or she is trying to accomplish. The skills can be used for the following actions:
+
+Magic Fight: Attack, Defend
+Magic Shoot: Attack
+Magic Utility: Create an Advantage, Defend, Overcome
+
+Certain stunts can allow certain skills to be used for additional actions, such as using shoot to Defend or Fight to Overcome. 
+
+> Written with [StackEdit](https://stackedit.io/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NTAwMDUxMTBdfQ==
+-->
