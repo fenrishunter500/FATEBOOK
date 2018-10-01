@@ -1,0 +1,19 @@
+## New Character Options
+
+Provided here is a list of example Stunts available to a Mahou Shoujo. By no means are you limited to the Stunts listed here and in the Core Rulebook; in fact, we encourage you to come up with your own! Hopefully these will give you some ideas on how to custom tailor Stunts for your own unique character.
+
+**Deflection Shot**: *Your skills with magical projectiles are so finely tuned, you figure you could shoot incoming projectiles if you so needed!* You may use your Magical Shoot skill to Defend against projectile attacks. 
+
+**Feral Assault:** *Your magic engenders within you a blood-pounding rage that can only be sated when there is no remaining sign of evil in your presence.* Once per combat, you may make two Magical Fight Attack actions. Until the start of your next turn, any Defend action you take suffers a [RATING NAME] (-2) penalty as you throw yourself all in on attacking. 
+
+**Dedicated Healer**: *The magical energies that come to you when you call are uniquely suited to mending the most severe of wounds.* When you attempt a healing spell, gain a (+2) bonus to your roll as if your target was reverted to normal form. This bonus stacks with the (+2) bonus for healing reverted characters. However, all Magical Attack rolls made by you suffer a (-2) penalty. 
+
+**Elemental Affinity**: *Your connection to the Heart of Elements affords you greater protection within your sphere of influence.* Choose any archetypal element (Fire, Water, Air, Earth, Wood, Metal, Ice, etc.) Anytime an opponent makes and Attack action against you using that element, you gain a (+2) to your Defend action. This stunt requires an appropriate Aspect to take (see pg {NUMBER} on Aspects and Magic). 
+
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MzcyMTA1NTZdfQ==
+-->
