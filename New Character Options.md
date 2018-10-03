@@ -2,7 +2,7 @@
 
 Provided here is a list of example Stunts available to a Mahou Shoujo. By no means are you limited to the Stunts listed here and in the Core Rulebook; in fact, we encourage you to come up with your own! Hopefully these will give you some ideas on how to custom tailor Stunts for your own unique character.
 
-Animal Companion: You have earned the respect and trust of a wild beast. Following the Minion rules under Creating Monsters on pg [PG NUMBER], you can create any relatively mundane animal. When you do so, choose an Action. Once per Scene, 
+Animal Famili: You have earned the respect and trust of a wild beast. Following the Minion rules under Creating Monsters on pg [PG NUMBER], you can create any relatively mundane animal. When you do so, choose an Action. Once per scene, your companion can grant you a Fair (+2) bonus to any one use of the relevant Action.
 
 **Battlefield Controller**: *A tactician knows that it is more than just raw fighting prowess that allows wars to be won. Precision control of the flow of the battlefield is equally important, if not more so.* You may upgrade a boost to an aspect with one free invoke when using a Create an Advantage action to place a Scene or Situational Aspect. 
 
@@ -22,6 +22,6 @@ Animal Companion: You have earned the respect and trust of a wild beast. Followi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjQ0ODgzNiwtMTExMTk4MDI0MiwtMT
+eyJoaXN0b3J5IjpbMTYzNDg0NzA5MSwtMTExMTk4MDI0MiwtMT
 czNzIxMDU1Nl19
 -->
