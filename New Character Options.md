@@ -10,10 +10,10 @@ Provided here is a list of example Stunts available to a Mahou Shoujo. By no mea
 
 **Elemental Affinity**: *Your connection to the Heart of Elements affords you greater protection within your sphere of influence.* Choose any archetypal element (Fire, Water, Air, Earth, Wood, Metal, Ice, etc.) Anytime an opponent makes and Attack action against you using that element, you gain a Fair (+2) bonus to your Defend action. This stunt requires an appropriate Aspect to take (see pg [NUMBER] on Aspects and Magic). 
 
-Battlefield Control: A tacti
+Battlefield Control: A tactician knows that it is more than just raw fighting prowess that allows wars to be won. Precision control of the flow of the battlefield is equally important, if not more so. When using a Create and Advantage action to modify the 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjI5NTYyNywtMTczNzIxMDU1Nl19
+eyJoaXN0b3J5IjpbODYwMTEyMTM5LC0xNzM3MjEwNTU2XX0=
 -->
