@@ -4,7 +4,7 @@ Provided here is a list of example Stunts available to a Mahou Shoujo. By no mea
 
 **Deflection Shot**: *Your skills with magical projectiles are so finely tuned, you figure you could shoot incoming projectiles if you so needed!* You may use your Magical Shoot skill to Defend against projectile attacks. 
 
-**Feral Assault:** *Your magic engenders within you a blood-pounding rage that can only be sated when there is no remaining sign of evil in your presence.* Once per combat, you may make two Magical Fight Attack actions. Until the start of your next turn, any Defend action you take suffers a [RATING NAME] (-2) penalty as you throw yourself all in on attacking. 
+**Feral Assault:** *Your magic engenders within you a blood-pounding rage that can only be sated when there is no remaining sign of evil in your presence.* Once per combat, you may make two Magical Fight Attack actions. Until the start of your next turn, any Defend action you take suffers a Terrible (-2) penalty as you throw yourself all in on attacking. 
 
 **Dedicated Healer**: *The magical energies that come to you when you call are uniquely suited to mending the most severe of wounds.* When you attempt a healing spell, gain a (+2) bonus to your roll as if your target was reverted to normal form. This bonus stacks with the (+2) bonus for healing reverted characters. However, all Magical Attack rolls made by you suffer a (-2) penalty. 
 
@@ -15,5 +15,6 @@ Provided here is a list of example Stunts available to a Mahou Shoujo. By no mea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcyMTA1NTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMjExODI1MzEsLTE3MzcyMTA1NTZdfQ
+==
 -->
