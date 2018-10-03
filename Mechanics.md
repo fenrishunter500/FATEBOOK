@@ -13,8 +13,8 @@ Familiars
 
 Limit Break
 
- - [ ] LB should not be easy to tap into. Look into limitations. Transform back to normal? Major negatives to rolls?
- - [ ] Possible limitation: Limit Break is only available to you if your Purity track is over half-way filled, or you currently have a Severe Purity Consequence on your sheet.
+ - [x] LB should not be easy to tap into. Look into limitations. Transform back to normal? Major negatives to rolls? (NO, REPLACED WITH REVERTING AND TRANSFORMATION BOON)
+ - [x] Possible limitation: Limit Break is only available to you if your Purity track is over half-way filled, or you currently have a Severe Purity Consequence on your sheet. (NO, REPLACED WITH REVERTING AND TRANSFORMATION BOON)
 
 Magic Systems?
 
@@ -59,7 +59,7 @@ Page Density: ~450 words per page
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTIxMTg3OSwxMzAzNjk5MTkxLC0yMD
-QwMDQ3MjA1LC01OTA2Mzg5OTksLTE0ODk2MDkzNTUsMjUzODEw
-ODkzLC03ODk0NDk2OTFdfQ==
+eyJoaXN0b3J5IjpbMTUwMDg3MTQ0NywxNTc1MjExODc5LDEzMD
+M2OTkxOTEsLTIwNDAwNDcyMDUsLTU5MDYzODk5OSwtMTQ4OTYw
+OTM1NSwyNTM4MTA4OTMsLTc4OTQ0OTY5MV19
 -->
