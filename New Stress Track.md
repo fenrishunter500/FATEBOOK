@@ -2,9 +2,9 @@
 
 In addition to the Physical and Mental stress tracks of Fate Core, [SYSTEM NAME] also uses a third stress track, the Purity stress track. This new track represents a Mahou Shoujo's connection to the raw energies that make up their suite of powers. As such, the Purity stress track can normally only be damaged during combat after the character has transformed into her Mahou Shoujo form. 
 
-During combat, a Mahou Shoujo can elect to allow damage to either apply to her Purity or her Physical/Mental Stress tracks as applicable. However, this choice is only available to her so long as there are more Purity boxes crossed off than Physical and Mental combined. 
+During combat, a Mahou Shoujo can elect to allow damage to either apply to her Purity or her Physical/Mental Stress tracks as applicable. However, this choice is only available to her so long as there are more Purity boxes crossed off than Physical and Mental combined. If at any time for any reason a Mahou Shoujo would have more Physical or Mental stress boxes filled than she does Purity, she cannot continue to fill those tracks until she has filled the requisite amount of Purity stress. This limitation does not apply to any other stress tracks your GM may incorporate, nor does it factor if a Mahou Shojou's Purity track is completely filled; in this case she would revert back to her regular form. 
 
-Players start with two Purity stress boxes, and can gain additional boxes in a similar fashion to the Physical and Mental stress tracks. If any of her three Magical skills are ranked at Average (+1) or Fair (+2) she gains a single additional stress box; if any are at Good (+3) or higher, she instead receives two additional stress boxes. In addition, if at least one of these skills is at Superb (+5) or higher the Mahou Shoujo will also gain an additional Mild consequence slot, and if all three are ranked Superb (+5) she also gains an additional Moderate consequence slot. These slots are specifically restricted to Purity harm and cannot be used to lessen the impact of a physical or mental hit. 
+Players start with two Purity stress boxes, and can gain additional boxes in a similar fashion to the Physical and Mental stress tracks. If any of her three Magical skills are ranked at Average (+1) or Fair (+2) she gains a single additional stress box; if any are at Good (+3) or higher, she instead receives two additional stress boxes. In addition, if at least one of these skills is at Superb (+5) or higher the Mahou Shoujo will also gain an additional Mild consequence slot, and if all three are ranked Superb (+5) she also gains an additional Moderate consequence slot. These consequence slots are specifically restricted to Purity harm and cannot be used to lessen the impact of a physical or mental hit. 
 
 ## Filling the Purity Track
 
@@ -16,7 +16,7 @@ In addition, once the Purity stress track has been filled, a Mahou Shoujo loses 
 
 Purity can be restored in the same manner as the Physical and Mental tracks. Generally, this will be after combat has been ended and the character has had a chance to catch her breath. However, some form of restoration spell can be utilized in a pinch. The caster and the target for restoration need not be the same character. Each character may only benefit from such a spell once per scene. 
 
-In order to preform a restoration spell, first the casting Mahou Shoujo must have an Aspect that would allow such a spell to be cast as detailed on pg [PG NUMBER]. If so, then the player must make an Overcome action using Magic Utility vs. a difficulty equal to the Purity box to be restored. In cases where the target currently has been reverted to her ordinary form, the caster has a bonus of (+2) to her roll. Upon a success, the box is cleared and available for use; in the case of a success with style, an additional box can be restored. This additional box must be the lowest value box below the box restored. 
+In order to preform a restoration spell, first the casting Mahou Shoujo must have an Aspect that would allow such a spell to be cast as detailed on pg [PG NUMBER]. If so, then the player must make an Overcome action using Magic Utility vs. a difficulty equal to the Purity box to be restored. In cases where the target currently has been reverted to her ordinary form, the caster has a bonus of (+2) to her roll. Upon a success, the box is cleared and available for use; in the case of a success with style, an additional box can be restored. This additional box must be the lowest value box below the box restored. If there are no available boxes to be restored, a Boost can be created instead.
 
 If this restoration frees up a hit box on a reverted character, she now has access once more to her magic. In addition to gaining back the use of the Magical skills, she immediately goes through a second Transformation sequence. However, she cannot roll for another Transformation Boon, as the boon is only gained at the beginning of a combat scene.
 
@@ -51,7 +51,7 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDAzMjQ4NSw4NzgzMzc2MDQsLTExNT
-Q5MDUwNjUsLTk4MjcxMDY3LDE0MzE4MjEwNzQsMTIyODYzNjg0
-MywtMTU2MjY5NzA3NF19
+eyJoaXN0b3J5IjpbMTAyNDE2Njg5MywtODk0MDMyNDg1LDg3OD
+MzNzYwNCwtMTE1NDkwNTA2NSwtOTgyNzEwNjcsMTQzMTgyMTA3
+NCwxMjI4NjM2ODQzLC0xNTYyNjk3MDc0XX0=
 -->
