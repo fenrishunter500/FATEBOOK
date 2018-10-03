@@ -1,0 +1,46 @@
+
+
+## Character Creation
+
+Character Creation in [SYSTEM NAME] follows the same process as outlined in the Fate Core book. We have included here a short synopsis of the process, but we recommend reading through the Core book for clarity. Any unintentional deviations found here are superseded by the information in the original publication, unless otherwise noted.
+
+To begin, determine your character's High Concept and Trouble. While we recommend one of these two aspects are worded in such a way as to allow spell casting as detailed on pg (PG NUMBER), this is in no way a fast requirement so long as at least one of your future aspects does so instead. Make sure to find Aspects that allow for both invoking, and compelling! 
+
+Next, the process enters Phase One of the Phase Trio. During this time, describe something interesting and adventurous that your character was a part of shortly before the game's beginning. You can write a short paragraph on the back of your character sheet or an index card, or you can just describe it vocally to the table. However your table goes about it, create an Aspect based off of this event. This aspect can cover the general vibe of the summary, or it can focus on a single part of it. It could be about something that happened to your character during this event, or it could be something your character learned about themselves. So long as it ties back to the event and is easy to both invoke and compel, add it to your sheet.
+
+Following this is Phases Two and Three of the Phase Trio. In these phases, your character acted in a supporting role in two other players' Phase One events. How you decide which players is up to your group (we personally recommend choosing someone at random, whether by rolling dice or drawing lots from a hat.) Once you have determined how your character was involved, create an Aspect related to your character's actions.
+
+At the end of the Phase Trio, your character should have a High Concept, a Trouble, and three Aspects related to previous adventures.
+
+Once you've finished your Phases and chosen your Aspects, it is time to pick your skills. Choosing from the skill list presented below, each character will have a pyramid of skills that adheres to the following:
+
+One Great (+4) skill
+Two Good (+3) skills
+Three Fair (+2) skills
+Four Average (+1) skills 
+
+Mediocre (+0) is the default for the remaining skills not chosen. 
+
+Skill List: 
+Athletics, Burglary, Contacts, Crafts, Deceive, Drive, Empathy, Fight, Investigate, Lore, Magic Fight, Magic Shoot, Magic Utility, Notice, Physique, Provoke, Rapport, Resources, Shoot, Stealth, Will
+
+Once all players have determined their skill pyramid, the table can move onto Stunts and Refresh. Each character begins with three Stunts and a Refresh value of three. For each Stunt above the three, lower the character's Refresh by one (to a maximum of five Stunts and a minimum of one Refresh.)
+
+Finally, determine Stress Tracks and Consequence Slots. Each character starts with a 1 and 2 point box in Physical, Mental, and Purity Stress Tracks, along with a Mild, a Moderate, and a Severe Consequence slot. The skills Physique and Will can grant additional Physical and Mental stress boxes, respectively, and any of the three Magical Skills can grant additional Purity stress boxes. If any of the associated skills are at Average (+1) or Fair (+2), gain an additional 3 point box. If instead the associate skill is at Good (+3) or Great (+4), gain a 3 and a 4 point box instead. In the case of Purity, use whichever of the Magical Skills is highest. You do not gain boxes for each individual skill, i.e. if Magic Shoot and Magic Utility are a Good (+3) and Magic Fight is an Average (+1), you only gain a single 3 point box and a single 4 point box (not three 3 point boxes and two 4 point boxes.)
+If any of the associated skills are Superb (+5) or higher, gain an additional Mild Consequence slot that is restricted to hits of that specific type. If all three of your Magical Skills are Superb (+5) or higher, also gain an additional Moderate Consequence slot for Purity hits.
+
+At the end of this process, you should have a character with:
+
+ - A Name
+ - Five Aspects along with some backstory covering three events in recent history
+ - One Great (+4), two Good (+3), three Fair (+2) and four Average (+1) skills
+ - Somewhere between three and five stunts
+ - A Mental, a Physical, and a Purity stress track of 2 to 4 boxes each
+ - A Refresh of 1 to 3 Fate Points
+
+From here, you should be ready to play! 
+
+> Written with [StackEdit](https://stackedit.io/).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI4MDk1NTA3MV19
+-->
