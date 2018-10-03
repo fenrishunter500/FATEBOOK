@@ -12,9 +12,9 @@ Provided here is a list of example Stunts available to a Mahou Shoujo. By no mea
 
 **Battlefield Controller**: *A tactician knows that it is more than just raw fighting prowess that allows wars to be won. Precision control of the flow of the battlefield is equally important, if not more so.* You may upgrade a boost to an aspect with one free invoke when using a Create an Advantage action to place a Scene Aspect. 
 
-Retaliatory Strike: The motto "The best defense is a good offense" is more than just a motto for you; it's nigh a way of life when you are one of a few tasked with protecting mankind from the demons that stalk the shadows. Once per scene, when hit with a Fight action from the Fight or Magic Fight skills, you may immediately inflict a 2 stress hit on your opponent. If the hit would make
+**Retaliatory Strike**: The motto "The best defense is a good offense" is more than just a motto for you; it's nigh a way of life when you are one of a few tasked with protecting mankind from the demons that stalk the shadows. Once per scene, when hit with an Attack action from the Fight or Magic Fight skills, you may immediately inflict a 2 stress hit on your opponent. This strikes comes after you apply any stress taken from your opponent's Attack. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDYyMTg4NSwtMTczNzIxMDU1Nl19
+eyJoaXN0b3J5IjpbOTAwNjA2MjcxLC0xNzM3MjEwNTU2XX0=
 -->
