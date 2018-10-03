@@ -20,7 +20,7 @@ Magic Systems?
 
  - [x] Tianxia-style magical system? (NO, SKILL-BASED)
  - [x] Could Magic instead be an existing Stunt/Aspect, or a new additional one? (NO, SKILL-BASED)
- - [ ] Relatedly, should magic be standardized (i.e. can only cast spells in book) or more Cinematically loose (and dependent on player's imagination?) (CINEMATICALLY LOOSE)
+ - [x] Relatedly, should magic be standardized (i.e. can only cast spells in book) or more Cinematically loose (and dependent on player's imagination?) (CINEMATICALLY LOOSE)
  - [x] In addition, new skill: Magic (FIGHT, SHOOT, UTILITY)
 
 Colors?
@@ -33,7 +33,7 @@ System Name
 
 Examples Needed
 
- - [ ] New Set of applicable example stunts
+ - [x] New Set of applicable example stunts
  - [ ] Example M.G. should include a team, a duo, and a solo. If familiars are unique to a character, either the solo or the duo has her. Team should be thematic. Elements? Planets?
  - [ ] Example M.G., do they need to be relatable to existing M.G. media, and if so, to whom? Sailor Moon, CC Sakura, Tokyo MM, Madoka?
  - [ ] Baddies. Who, what, how, why? Bestiary?
@@ -43,7 +43,7 @@ Examples Needed
 Misc.
 
  - [x] Dice changes? Would necessitate standard 7 dice set vs. the 4dF of Fate. (NO. NEAT IDEA, BUT IMPRACTICAL HERE)
- - [ ] Setting: Have one baked in, or no? If so, need to develop.
+ - [x] Setting: Have one baked in, or no? If so, need to develop. (NO)
  - [ ] Intro module. A massive WANT but not necessarily a NEED
  - [ ] Fictions!
  - [ ] Art!
@@ -59,6 +59,7 @@ Page Density: ~450 words per page
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDAwNDcyMDUsLTU5MDYzODk5OSwtMT
-Q4OTYwOTM1NSwyNTM4MTA4OTMsLTc4OTQ0OTY5MV19
+eyJoaXN0b3J5IjpbMTMwMzY5OTE5MSwtMjA0MDA0NzIwNSwtNT
+kwNjM4OTk5LC0xNDg5NjA5MzU1LDI1MzgxMDg5MywtNzg5NDQ5
+NjkxXX0=
 -->
