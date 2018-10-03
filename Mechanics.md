@@ -8,8 +8,8 @@ Transformations
 
 Familiars
 
- - [ ] Familiars: feature or choice? Do any MG ips have every girl with a familiar? Or just one per team?
- - [ ] If one per team, does it belong to the team as a whole, or just one member a la Druid's Nature's Ally?
+ - [x] Familiars: feature or choice? Do any MG ips have every girl with a familiar? Or just one per team? (GOING TO LEAVE UP TO TABLE)
+ - [x] If one per team, does it belong to the team as a whole, or just one member a la Druid's Nature's Ally? (GOING TO LEAVE UP TO TABLE)
 
 Limit Break
 
@@ -59,7 +59,7 @@ Page Density: ~450 words per page
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzY5OTE5MSwtMjA0MDA0NzIwNSwtNT
-kwNjM4OTk5LC0xNDg5NjA5MzU1LDI1MzgxMDg5MywtNzg5NDQ5
-NjkxXX0=
+eyJoaXN0b3J5IjpbMTU3NTIxMTg3OSwxMzAzNjk5MTkxLC0yMD
+QwMDQ3MjA1LC01OTA2Mzg5OTksLTE0ODk2MDkzNTUsMjUzODEw
+ODkzLC03ODk0NDk2OTFdfQ==
 -->
