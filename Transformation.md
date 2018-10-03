@@ -4,9 +4,9 @@ One of the most iconic conventions of the Mahou Shoujo genre is the transformati
 
 In [SYSTEM NAME], this sequence is recreated in the form of the Transformation Phase. At the beginning of combat, before rolling Notice for turn initiatives, each Mahou Shoujo involved makes a Magic Utility roll against a difficulty equal to the highest Corruption level of all opponents present at the start of the combat scene. If she succeeds, she can choose one of the options from the list below as a one time use. This boon can be utilized at the appropriate times in the combat scene, but if the Mahou Shoujo is forced to revert back to her ordinary form for any reason at all, she loses the boon. 
 
-1. As the magic swirls and coalesces around you, its residual energies cling protectively to your newly transformed form. Gain a +2 bonus to a single Defend action this combat. 
-2. Amidst your transformation, you can feel the magical energies almost begging you to vanquish this evil before you. Gain a +2 bonus to the first Attack action you make this combat.
-3. Not only have you been suffused with magical energies, but so too has the environment around you. Gain one free invoke of a Situational Aspect this combat when attempting either a Create an Advantage or Overcome action.
+1. As the magic swirls and coalesces around you, its residual energies cling protectively to your newly transformed form. Gain a Fair (+2) bonus to a single Defend action this combat. 
+2. Amidst your transformation, you can feel the magical energies almost begging you to vanquish this evil before you. Gain a Fair (+2) bonus to the first Attack action you make this combat.
+3. Not only have you been suffused with magical energies, but so too has the environment around you. Gain one free invoke of a Situational or Scene Aspect this combat when attempting either a Create an Advantage or Overcome action.
 4. The latent energies of your powers has permeated throughout your core, increasing your ability to recover from serious blows. You may lower the severity of a single consequence you have received during this combat from Moderate to Mild. 
 
 Just like in your favorite magical girls anime, this Transformation Phase takes no time at all in game despite being "on screen" for a relative amount of time. Feel free to dress up your transformations as you see fit! It's even possible that your transformation takes on a different form every combat! 
@@ -20,7 +20,7 @@ Just like in your favorite magical girls anime, this Transformation Phase takes 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDUwOTQxMDYsNTIyOTM0MjcwLDE2Mz
-c1NzEwNDYsOTcyNjc2ODEyLDEwMDUxNzczNTYsLTUzNjIyODc1
-NSwtMTg2OTk4NTU4MiwtNTMzOTU1MjFdfQ==
+eyJoaXN0b3J5IjpbLTExMzExOTk0MSwtMTEwNTA5NDEwNiw1Mj
+I5MzQyNzAsMTYzNzU3MTA0Niw5NzI2NzY4MTIsMTAwNTE3NzM1
+NiwtNTM2MjI4NzU1LC0xODY5OTg1NTgyLC01MzM5NTUyMV19
 -->
