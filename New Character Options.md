@@ -16,10 +16,10 @@ Provided here is a list of example Stunts available to a Mahou Shoujo. By no mea
 
 **Won't You Be My Friend?**: *Friendship, and by extension love, is the strongest force ever conceived. You intend to show this fact to the world.* When you make an Empathy or Rapport roll, gain a Fair (+2) bonus to your roll.
 
-Supernatural Senses: Where others rely on the raw input of their 5 senses, you have learned to augment your own with the magical energies that fuel your abilities. You may use Magical Utility in
+**Supernatural Senses**: *Where others rely on the raw input of their 5 senses, you have learned to augment your own with the magical energies that fuel your abilities.* You may use Magical Utility instead of Notice when rolling for initiative in combat. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzYwNzI4NCwtMTExMTk4MDI0MiwtMT
+eyJoaXN0b3J5IjpbLTUwMDQ5OTY5OSwtMTExMTk4MDI0MiwtMT
 czNzIxMDU1Nl19
 -->
