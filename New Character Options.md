@@ -1,4 +1,4 @@
-## New Character Options
+## New Stunts
 
 Provided here is a list of example Stunts available to a Mahou Shoujo. By no means are you limited to the Stunts listed here and in the Core Rulebook; in fact, we encourage you to come up with your own! Hopefully these will give you some ideas on how to custom tailor Stunts for your own unique character.
 
@@ -20,6 +20,6 @@ Provided here is a list of example Stunts available to a Mahou Shoujo. By no mea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTk3NzczNSwtMTExMTk4MDI0MiwtMT
+eyJoaXN0b3J5IjpbMTY3MTI1Mjk0NSwtMTExMTk4MDI0MiwtMT
 czNzIxMDU1Nl19
 -->
