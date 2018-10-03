@@ -2,6 +2,8 @@
 
 Provided here is a list of example Stunts available to a Mahou Shoujo. By no means are you limited to the Stunts listed here and in the Core Rulebook; in fact, we encourage you to come up with your own! Hopefully these will give you some ideas on how to custom tailor Stunts for your own unique character.
 
+Animal Companion: You have earned the respect and trust of a wild beast. Following the Minion rules from 
+
 **Battlefield Controller**: *A tactician knows that it is more than just raw fighting prowess that allows wars to be won. Precision control of the flow of the battlefield is equally important, if not more so.* You may upgrade a boost to an aspect with one free invoke when using a Create an Advantage action to place a Scene or Situational Aspect. 
 
 **Dedicated Healer**: *The magical energies that come to you when you call are uniquely suited to mending the most severe of wounds.* When you attempt a healing spell, gain a Fair (+2) bonus to your roll as if your target was reverted to normal form. This bonus stacks with the Fair (+2) bonus for healing reverted characters. However, all Magical Attack rolls made by you suffer a Terrible (-2) penalty. 
@@ -20,6 +22,6 @@ Provided here is a list of example Stunts available to a Mahou Shoujo. By no mea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5OTgwNCwtMTExMTk4MDI0MiwtMTczNz
-IxMDU1Nl19
+eyJoaXN0b3J5IjpbODI2OTYxMTYyLC0xMTExOTgwMjQyLC0xNz
+M3MjEwNTU2XX0=
 -->
