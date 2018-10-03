@@ -12,8 +12,9 @@ Provided here is a list of example Stunts available to a Mahou Shoujo. By no mea
 
 **Battlefield Controller**: *A tactician knows that it is more than just raw fighting prowess that allows wars to be won. Precision control of the flow of the battlefield is equally important, if not more so.* You may upgrade a boost to an aspect with one free invoke when using a Create an Advantage action to place a Scene Aspect. 
 
+Retaliatory Strike: The best defense is a good offense, and you are re
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODQyMTU5NSwtMTczNzIxMDU1Nl19
+eyJoaXN0b3J5IjpbLTM2OTk4NjM0NywtMTczNzIxMDU1Nl19
 -->
