@@ -2,9 +2,9 @@
 
 ## Character Creation
 
-Character Creation in [SYSTEM NAME] follows the same process as outlined in the Fate Core book. We have included here a short synopsis of the process, but we recommend reading through the Core book for clarity. Any unintentional deviations found here are superseded by the information in the original publication, unless otherwise noted.
+Character Creation in MAHOU SHOUJO follows the same process as outlined in the Fate Core book. We have included here a short synopsis of the process, but we recommend reading through the Core book for clarity. Any unintentional deviations found here are superseded by the information in the original publication, unless otherwise noted.
 
-To begin, determine your character's High Concept and Trouble. While we recommend one of these two aspects are worded in such a way as to allow spell casting as detailed on pg (PG NUMBER), this is in no way a fast requirement so long as at least one of your future aspects does so instead. Make sure to find Aspects that allow for both invoking, and compelling! 
+To begin, determine your character's High Concept and Trouble. While we recommend one of these two aspects are worded in such a way as to allow spell casting as detailed on pg [PG NUMBER], this is in no way a fast requirement so long as at least one of your future aspects does so instead. Make sure to find Aspects that allow for both invoking, and compelling! 
 
 Next, the process enters Phase One of the Phase Trio. During this time, describe something interesting and adventurous that your character was a part of shortly before the game's beginning. You can write a short paragraph on the back of your character sheet or an index card, or you can just describe it vocally to the table. However your table goes about it, create an Aspect based off of this event. This aspect can cover the general vibe of the summary, or it can focus on a single part of it. It could be about something that happened to your character during this event, or it could be something your character learned about themselves. So long as it ties back to the event and is easy to both invoke and compel, add it to your sheet.
 
@@ -42,5 +42,5 @@ From here, you should be ready to play!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDk1NTA3MV19
+eyJoaXN0b3J5IjpbMTA0NDYwMjcwMCwtMjgwOTU1MDcxXX0=
 -->
