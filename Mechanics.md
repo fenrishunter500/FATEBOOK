@@ -29,13 +29,13 @@ Colors?
 
 System Name
 
- - [ ] Name for setting, a la Venture City? Some central ideal like Tianxia? Or something more base-line descriptive like Uranium Chef or Mecha v. Kaiju?
+ - [x] Name for setting, a la Venture City? Some central ideal like Tianxia? Or something more base-line descriptive like Uranium Chef or Mecha v. Kaiju? (MAHOU SHOUJO: Wake Up, Go to School, Save the World)
 
 Examples Needed
 
  - [x] New Set of applicable example stunts
  - [ ] Example M.G. should include a team, a duo, and a solo. If familiars are unique to a character, either the solo or the duo has her. Team should be thematic. Elements? Planets?
- - [ ] Example M.G., do they need to be relatable to existing M.G. media, and if so, to whom? Sailor Moon, CC Sakura, Tokyo MM, Madoka?
+ - [x] Example M.G., do they need to be relatable to existing M.G. media, and if so, to whom? Sailor Moon, CC Sakura, Tokyo MM, Madoka? (RELATABLE, BUT NOT RIPPED OFF/FROM)
  - [x] Baddies. Who, what, how, why? Beastiary? (NO BEASTIARY, FOLLOWING THE ADVERSARY TOOLKIT)
  - [x] Baddies: Define Corruption levels. Equivalent to Power Level, but how? (BASED ON ENEMY CLASSIFICATION)
  - [x] If beastiary, provide stat blocks and multiple reskinnings of each stat block. I.e. brute (giant gorilla, wolf-man, bouncer-mook), scout (imp, eye guy, hufflepuffs), etc. (NO BEASTIARY)
@@ -59,8 +59,8 @@ Page Density: ~450 words per page
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDMyMDI2NzAsMTUwMDg3MTQ0NywxNT
-c1MjExODc5LDEzMDM2OTkxOTEsLTIwNDAwNDcyMDUsLTU5MDYz
-ODk5OSwtMTQ4OTYwOTM1NSwyNTM4MTA4OTMsLTc4OTQ0OTY5MV
-19
+eyJoaXN0b3J5IjpbMTIwNTc1OTcyOCwxNTAwODcxNDQ3LDE1Nz
+UyMTE4NzksMTMwMzY5OTE5MSwtMjA0MDA0NzIwNSwtNTkwNjM4
+OTk5LC0xNDg5NjA5MzU1LDI1MzgxMDg5MywtNzg5NDQ5NjkxXX
+0=
 -->
