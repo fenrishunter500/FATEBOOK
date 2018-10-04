@@ -1,6 +1,6 @@
 ## Purity
 
-In addition to the Physical and Mental stress tracks of Fate Core, [SYSTEM NAME] also uses a third stress track, the Purity stress track. This new track represents a Mahou Shoujo's connection to the raw energies that make up their suite of powers. As such, the Purity stress track can normally only be damaged during combat after the character has transformed into her Mahou Shoujo form. 
+In addition to the Physical and Mental stress tracks of Fate Core, MAHOU SHOUJO also uses a third stress track, the Purity stress track. This new track represents a Mahou Shoujo's connection to the raw energies that make up their suite of powers. As such, the Purity stress track can normally only be damaged during combat after the character has transformed into her Mahou Shoujo form. 
 
 During combat, a Mahou Shoujo can elect to allow damage to either apply to her Purity or her Physical/Mental Stress tracks as applicable. However, this choice is only available to her so long as there are more Purity boxes crossed off than Physical and Mental combined. If at any time for any reason a Mahou Shoujo would have more Physical or Mental stress boxes filled than she does Purity, she cannot continue to fill those tracks until she has filled the requisite amount of Purity stress. This limitation does not apply to any other stress tracks your GM may incorporate, nor does it factor if a Mahou Shojou's Purity track is completely filled; in this case she would revert back to her regular form. 
 
@@ -51,7 +51,8 @@ If this restoration frees up a hit box on a reverted character, she now has acce
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjAxMjQwMywtODk0MDMyNDg1LDg3OD
-MzNzYwNCwtMTE1NDkwNTA2NSwtOTgyNzEwNjcsMTQzMTgyMTA3
-NCwxMjI4NjM2ODQzLC0xNTYyNjk3MDc0XX0=
+eyJoaXN0b3J5IjpbMTQ4OTY3OTU1NSwyMTIyMDEyNDAzLC04OT
+QwMzI0ODUsODc4MzM3NjA0LC0xMTU0OTA1MDY1LC05ODI3MTA2
+NywxNDMxODIxMDc0LDEyMjg2MzY4NDMsLTE1NjI2OTcwNzRdfQ
+==
 -->
