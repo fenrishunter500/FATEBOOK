@@ -4,7 +4,7 @@
 
 These skills represent the innate magical properties of a Mahou Shoujo. Just like no two Mahou Shoujo are the same, so too do their powers vary wildly. Within the vast options available to a Mahou Shoujo, however, every spell can be roughly categorized into one of three major fields of effect: Fight, Shoot, or Utility. 
 
-How two Mahou Shoujo decide to utilize these skills can be very different indeed. Whether striking with a summoned blade of fire, attacking with modified claws due to a transformation, or a simple punch augmented by magical energies, all three are represented by the Magic Fight skill. Similarly, a fireball, lightning bolt, magic gun, and eye beam all fall under Magic Shoot. When making an attack with either Magic Fight or Magic Shoot
+How two Mahou Shoujo decide to utilize these skills can be very different indeed. Whether striking with a summoned blade of fire, attacking with modified claws due to a transformation, or a simple punch augmented by magical energies, all three are represented by the Magic Fight skill. Similarly, a fireball, lightning bolt, magic gun, and eye beam all fall under Magic Shoot. When making an Attack action with either Magic Fight or Magic Shoot, damage is dealt to an open Purity or Corruption Stress Box an opponent possesses before it begins to fill any Physical Stress . 
 
 	GM NOTE
 	GMs, feel free to combine the three types of Magic skills into 
@@ -45,7 +45,7 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTEyNTQxNywxOTA4MDMxNjY0LDM5OD
+eyJoaXN0b3J5IjpbLTY2NzcwNDA2MSwxOTA4MDMxNjY0LDM5OD
 EwNzg2NiwtMjEzMzYzMDY5MywxNDA0NDMzMTMsNDU0MzEwMzkw
 LC00NzQ3NTE5NTcsLTQ4Mzc1OTQ5OCw0MTU4MzgwMzIsLTE5MD
 g4OTMwLC0xMjYxOTE3Mzg5LDIwMDk4MTUzMDksLTEyMDI3NjAx
