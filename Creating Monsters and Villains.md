@@ -11,7 +11,7 @@ Enemies are broken down into three major classifications: Minions, Lieutenants, 
 Most of the enemies encountered by Mahou Shoujo are servants to the forces of evil. These enemies do not have a Purity Stress Track; instead, they have a Corruption Stress Track. For all intents and purposes, the Corruption Stress Track acts exactly as the Purity Stress Track does, it is just reskinned to represent that their powers come from the forces of evil and darkness as opposed to the forces of good and light that powers the PCs.
 In the cases where it doesn't make sense for an opponent to have a Corruption Stress Track, feel free to revert it back to a Purity Stress Track. There are also some enemies who might not have either, in the case of mundane opposition like police officers and the dreaded homeroom teacher!
 
-In addition, [SYSTEM NAME] also attributes to all enemies with a Corruption Stress Track a Corruption Level. This level is determined by their classification. Minions will always have a Corruption Level of 1, unless they are congregated in a large enough group (see below.) Lieutenants' Corruption hovers between 2 and 3 depending on the strength of the Lieutenant. Finally, Bosses have a Corruption Level of 4 or higher. A Boss with a Corruption of 5 is one of the most evil beings across the dimensions, and a Corruption 6 Boss is nearly unheard of. That doesn't mean that such an avatar of evil doesn't exist, however!
+In addition, MAHOU SHOUJO also attributes to all enemies with a Corruption Stress Track a Corruption Level. This level is determined by their classification. Minions will always have a Corruption Level of 1, unless they are congregated in a large enough group (see below.) Lieutenants' Corruption hovers between 2 and 3 depending on the strength of the Lieutenant. Finally, Bosses have a Corruption Level of 4 or higher. A Boss with a Corruption of 5 is one of the most evil beings across the dimensions, and a Corruption 6 Boss is nearly unheard of. That doesn't mean that such an avatar of evil doesn't exist, however!
 
 ## Minions
 
@@ -107,5 +107,5 @@ Ultimately, all Bosses should be memorable, with personalities and goals uniquel
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc5NDQyMzVdfQ==
+eyJoaXN0b3J5IjpbLTI5MzA5NTAzOSwtMTcwNzk0NDIzNV19
 -->
