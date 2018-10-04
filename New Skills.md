@@ -1,6 +1,6 @@
 ## New Skills
 
-[SYSTEM NAME] uses the default FATE CORE skill list (FATE CORE, p.97) with the addition of the Magic Fight, Magic Shoot, and Magic Utility skills, collectively referred to as the Magical skills. 
+MAHOU SHOUJO uses the default Fate Core skill list (Fate Core, p.97) with the addition of the Magic Fight, Magic Shoot, and Magic Utility skills, collectively referred to as the Magical skills. 
 
 These skills represent the innate magical properties of a Mahou Shoujo. Just like no two Mahou Shoujo are the same, so too do their powers vary wildly. Within the vast options available to a Mahou Shoujo, however, every spell can be roughly categorized into one of three major fields of effect: Fight, Shoot, or Utility. 
 
@@ -45,7 +45,7 @@ In addition to the new skills listed above, the following skills are modified to
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODk2NjU5OSwxOTA4MDMxNjY0LDM5OD
+eyJoaXN0b3J5IjpbMTQ4MDcxMzk3MSwxOTA4MDMxNjY0LDM5OD
 EwNzg2NiwtMjEzMzYzMDY5MywxNDA0NDMzMTMsNDU0MzEwMzkw
 LC00NzQ3NTE5NTcsLTQ4Mzc1OTQ5OCw0MTU4MzgwMzIsLTE5MD
 g4OTMwLC0xMjYxOTE3Mzg5LDIwMDk4MTUzMDksLTEyMDI3NjAx
