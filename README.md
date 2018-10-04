@@ -6,6 +6,9 @@ a specific section. Some sections have yet to be written, mainly Gamemaster aids
 genre tropes at your gaming table. In addition, you may see page reference numbers that are not currently filled in.
 This is because at the moment, I have not moved on to the book formatting step yet.
 
+There is also a section titled "Mechanics". That one is a little misleading, it is more my draft page than anything.
+Feel free to poke about in there however, and gain some insight on how the creation process of this game developed!
+
 These sections are not in book order, i.e. there will be some shuffling before the text goes to formatting.
 It may take a little hunting to find what you need, but it should be in the appropriate section header.
 For the time being, however, this should suffice in giving you all of the raw information you need to 
